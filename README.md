@@ -1,7 +1,7 @@
-# Tính tổng các số từ 1 đến N
+# Tính tổng các số từ 1 đến n
 
 ## Mô tả bài toán
-Nhập vào một số nguyên dương **N**, chương trình sẽ cộng các số từ **1** đến **N** và in ra kết quả.
+Nhập vào một số nguyên dương **n**, chương trình sẽ cộng các số từ **1** đến **n** và in ra kết quả.
 
 ## Ví dụ
 - Nhập `5` -> Kết quả: `15` (vì `1 + 2 + 3 + 4 + 5 = 15`)
@@ -10,4 +10,4 @@ Nhập vào một số nguyên dương **N**, chương trình sẽ cộng các s
 ## Cách chạy chương trình
 1. Mở file code trong thư mục này.
 2. Chạy chương trình trên trình biên dịch / công cụ đang dùng.
-3. Nhập số **N** và xem kết quả hiển thị trên màn hình.
+3. Nhập số **n** và xem kết quả hiển thị trên màn hình.
